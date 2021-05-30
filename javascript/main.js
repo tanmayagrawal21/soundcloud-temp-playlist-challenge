@@ -93,7 +93,7 @@ SoundCloudAPI.renderTracks=function(track){
             box.innerHTML=embed.html;
 
             var img= document.createElement('img');
-            img.src="/close_icon.png";
+            img.src="close_icon.png";
             box.insertBefore(img, box.firstChild);
             sidebar.insertBefore(box,sidebar.firstChild);
 
