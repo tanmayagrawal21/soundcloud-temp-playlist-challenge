@@ -1,4 +1,5 @@
-#SoundCloud Temporary Playlist 
-This is a really good option to create a temporary SoundCloud Playlist
+# Temporary SoundCloud Playlist
 
-##[Click here to go to the Website](https://tanmayagrawal21.github.io/soundcloud-temp-playlist-challenge/)
+Uses SoundCloud API to search for, play and create playlists from the SoundCloud Music Library.
+
+**[Click here to visit the page](https://tanmayagrawal21.github.io/soundcloud-temp-playlist-challenge/)**
